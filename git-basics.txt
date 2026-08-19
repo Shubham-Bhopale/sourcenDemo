@@ -1,6 +1,16 @@
+Git basics commands to push the code for first time...
+
 git init
 git add .
 git commit -m "git basics commands"
 git branch -M main
 git remote add origin https://github.com/Shubham-Bhopale/sourcenDemo.git
 git push -u origin main
+
+Git commands to add more commits
+git add filename  --> for specific file
+git add . --> add all the files  
+git commit -m "message" --> adds check point 
+git push origin main --> pushes files to github 
+
+
